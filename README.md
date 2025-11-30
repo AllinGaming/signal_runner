@@ -1,9 +1,9 @@
 # Signal Runner
 
-[![Build & Deploy](https://github.com/USER/signal_runner/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/allingaming/signal_runner/actions/workflows/gh-pages.yml)
+[![Build & Deploy](https://github.com/allingaming/signal_runner/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/allingaming/signal_runner/actions/workflows/gh-pages.yml)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-teal)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Web-blue)]()
-[![Coverage](https://USER.github.io/signal_runner/coverage_badge.svg)](https://allingaming.github.io/signal_runner/coverage_badge.svg)
+[![Coverage](https://allingaming.github.io/signal_runner/coverage_badge.svg)](https://allingaming.github.io/signal_runner/coverage_badge.svg)
 [![Static Analysis](https://img.shields.io/badge/Analyzer-clean-success)]()
 [![GH Pages](https://img.shields.io/badge/GitHub%20Pages-live-success)](https://allingaming.github.io/signal_runner/)
 [![License](https://img.shields.io/badge/License-MIT-black)](LICENSE)
