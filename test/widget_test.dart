@@ -19,8 +19,8 @@ void main() {
     );
 
     expect(find.textContaining('Signal Runner'), findsOneWidget);
-    expect(find.text('Stage 1'), findsOneWidget);
-    expect(find.textContaining('RESET'), findsOneWidget);
-    expect(find.textContaining('ADVANCE'), findsOneWidget);
+    expect(find.textContaining('Stage 1'), findsOneWidget);
+    expect(find.text('RESET'), findsOneWidget);
+    expect(find.text('ADVANCE (-1 LIFE)'), findsOneWidget);
   });
 }
